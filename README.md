@@ -1,1 +1,1 @@
-# ICSI-Certified-Network-Security-Specialist-CNSS
+# ICSI Certified Network Security Specialist (CNSS)
