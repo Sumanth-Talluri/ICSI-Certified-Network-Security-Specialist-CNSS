@@ -74,6 +74,3 @@
 ### OS Patches
 - apply latest patches.
 
-
-
-#### Continue on to [Module 8 - Virus Attacks and How to Defend](https://github.com/ArunNadda/CNSS/blob/master/Chapters/Module8-VirusAttacks-and-HowtoDefend.md)
