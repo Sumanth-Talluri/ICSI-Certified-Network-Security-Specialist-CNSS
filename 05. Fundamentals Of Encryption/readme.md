@@ -164,7 +164,3 @@
     - takes long time
     - AES, with 128bits,(if tried by 1 trillion keys a sec, could take xxx years)
 
-
-
-
-#### Continue on to [Module 6 - VPNs](https://github.com/ArunNadda/CNSS/blob/master/Chapters/Module6-VPNs.md)
