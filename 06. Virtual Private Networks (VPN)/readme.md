@@ -147,6 +147,3 @@
     - remote user or site-to-site, supports wireless.
     - does not support NAT.
 
-
-
-#### Continue on to [Module 7 - OS Hardening](https://github.com/ArunNadda/CNSS/blob/master/Chapters/Module7-OSHardening.md)
